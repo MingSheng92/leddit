@@ -4,14 +4,16 @@
 Side project to build a reddit like web application, aiming to learn on mainly Typescript and graphQL, work in progress.
 
 ### Tech
-1. React
-2. TypeScript
-3. GraphQL
-4. Apollo Server
-5. Node.js
-6. PostgresSQL
-7. Mikro-orm
-8. Redis (?)
-9. TypeGraphQL
-10. Next.js (?)
-(?) being it might be replaced with other framework or libraries.
+The full stack application will be written in typescript and graphql for learning purposes. <br /> 
+
+Frontend 
+1. React/Next.js
+2. [URQL](https://formidable.com/open-source/urql/) - to generate query/mutation hooks for F/E usage
+
+Back end
+1. Node.js
+2. Express.js
+3. Apollo Server
+4. PostgresSQL
+5. Mikro-orm 
+6. Redis - for user authentication usage
