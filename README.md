@@ -9,6 +9,7 @@ The full stack application will be written in typescript and graphql for learnin
 Frontend 
 1. React/Next.js
 2. [URQL](https://formidable.com/open-source/urql/) - to generate query/mutation hooks for F/E usage
+3. formik - form state management tool 
 
 Back end
 1. Node.js
